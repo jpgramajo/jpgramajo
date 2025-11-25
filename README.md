@@ -1,126 +1,157 @@
 <div align="center">
+
+# 👋 Hola, soy Joel Gramajo
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-gramajo-9b1999387)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@jpgramajo.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jpgramajo)
+
+</div>
+
+<br/>
+
+## 🎯 Sobre Mí
+
+```typescript
+const joel = {
+    title: "Ingeniero en Sistemas",
+    graduation: "Magna Cum Laude",
+    location: "Quetzaltenango, Guatemala",
+    focus: ["Full-Stack Development", "Cloud Architecture", "AI/ML"],
+    currentlyLearning: ["Large Language Models", "RAG Architectures"],
+    interests: ["DevOps Automation", "System Optimization", "Serverless Architecture"]
+};
+```
+
+<br/>
+
+## 🚀 Stack Tecnológico
+
+<table>
+<tr>
+<td valign="top" width="50%">
+
+### 💻 Lenguajes & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+</td>
+<td valign="top" width="50%">
+
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+### 🤖 AI & Datos
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📈 Estadísticas de GitHub
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+
+</div>
+
+<div align="center">
   
-# 👋 ¡Hola! Soy Joel Gramajo
+![GitHub Streak](https://streak-stats.demolab.com?user=jpgramajo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideLabels=C9D1D9)
 
-### Full-Stack Engineer | AI Enthusiast | Cloud Architecture
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Ingeniero+en+Sistemas;Full-Stack+Developer;Building+scalable+solutions;AI+%26+Cloud+Architecture" alt="Typing SVG" />
+<br/>
+
+## 🎯 Proyectos Destacados
+
+<div align="center">
+
+| Categoría | Descripción | Tecnologías |
+|-----------|-------------|-------------|
+| 🤖 **Aplicaciones de IA** | LLMs on-device, RAG architectures, Deep Learning | TensorFlow, PyTorch, CUDA |
+| ☁️ **Arquitecturas Cloud** | Soluciones serverless, Microservicios, APIs | AWS Lambda, API Gateway, Aurora |
+| 🔧 **Herramientas de Sistema** | CLIs, Compiladores, Automatización | C, Python, Flex/Bison |
+| 🌐 **Full-Stack Apps** | Aplicaciones web y móviles modernas | React, Node.js, Flutter |
+
+</div>
+
+### 💡 Highlights
+
+```yaml
+Sistema_Gestión_Médica:
+  role: "Co-líder Técnico"
+  stack: [Node.js, TypeScript, Astro, PlanetScale]
+  achievement: "48% mejora en eficiencia operativa"
+
+Arquitectura_Serverless:
+  platform: AWS
+  services: [Lambda, API Gateway, Aurora, Bedrock]
+  pattern: "RAG (Retrieval-Augmented Generation)"
+
+Compilador_BMlang:
+  components: [Lexer, Parser, IDE]
+  tech: [C, Flex, Bison, C#, IronPython]
+  type: "Lenguaje de programación completo"
+
+AI_ML_Projects:
+  - "Clasificación astronómica (PyTorch/CUDA) - 98% precisión"
+  - "Generación de audio (TensorFlow/Keras)"
+  - "LLM on-device (Flutter + Qwen2.5)"
+```
+
+<br/>
+
+## 📬 Conecta Conmigo
+
+<div align="center">
+
+¿Tienes un proyecto interesante o quieres discutir sobre tecnología?
+
+**¡Hablemos!**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-gramajo-9b1999387)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@jpgramajo.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://github.com/jpgramajo)
+[![Email](https://img.shields.io/badge/me@jpgramajo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@jpgramajo.com)
+
+📍 **Quetzaltenango, Guatemala** | 🌐 **Disponible para proyectos remotos**
 
 </div>
 
----
-
-## 🚀 Sobre Mí
-
-Ingeniero en Sistemas con pasión por construir arquitecturas escalables y resolver problemas complejos. Me especializo en desarrollo Full-Stack con enfoque en soluciones cloud-native e implementación de IA en producción.
-
-- 🎓 **Magna Cum Laude** en Ingeniería de Sistemas
-- 🔭 Actualmente trabajando en proyectos de **AI/ML** y arquitecturas **serverless**
-- 🌱 Explorando **Large Language Models** y **RAG architectures**
-- 💡 Apasionado por la automatización, DevOps y optimización de sistemas
-- 🌍 Basado en Quetzaltenango, Guatemala
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Astro](https://img.shields.io/badge/Astro-FF5D01?style=for-the-badge&logo=astro&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### Backend & Cloud
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-### AI & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
----
-
-## 📊 GitHub Stats
+<br/>
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&text_color=FFFFFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jpgramajo&theme=tokyonight&hide_border=true&background=0D1117&ring=2E9EF7&fire=2E9EF7&currStreakLabel=2E9EF7)
-
-</div>
 
 ---
 
-## 🌟 Proyectos Destacados
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20the%20future,%20one%20commit%20at%20a%20time&author=Joel%20Gramajo" alt="Quote"/>
 
-Echa un vistazo a mis repositorios destacados ⬇️ para ver:
-
-- 🤖 **Aplicaciones de IA** - LLMs on-device, RAG architectures, y modelos de deep learning
-- ☁️ **Arquitecturas Cloud** - Soluciones serverless en AWS, microservicios y APIs escalables
-- 🔧 **Herramientas de Sistema** - CLIs, compiladores y automatización de procesos
-- 🌐 **Full-Stack Apps** - Aplicaciones web y móviles con tecnologías modernas
-
----
-
-## 💼 Experiencia Destacada
-
-- **Sistema de Gestión Médica** - Lideré el desarrollo de una plataforma completa para centro nutricional (Node.js, TypeScript, PlanetScale)
-- **Arquitecturas Serverless** - Implementación de sistemas cloud-native con AWS Lambda, API Gateway y Aurora
-- **Desarrollo de Compilador** - Creación de lenguaje de programación propio con Flex/Bison
-- **AI/ML Projects** - Clasificación de datos astronómicos con PyTorch/CUDA, generación de audio con TensorFlow
-
----
-
-## 📫 Contacto
-
-¿Interesado en colaborar o discutir sobre tecnología? ¡Hablemos!
-
-- 📧 Email: [me@jpgramajo.com](mailto:me@jpgramajo.com)
-- 💼 LinkedIn: [juan-pablo-gramajo](https://www.linkedin.com/in/juan-pablo-gramajo-9b1999387)
-- 📍 Ubicación: Quetzaltenango, Guatemala
-
----
-
-<div align="center">
-  
-### 💭 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 👀 Profile Views
-
-![Visitor Count](https://profile-counter.glitch.me/jpgramajo/count.svg)
-
----
-
-⭐️ **"Building the future, one commit at a time"** ⭐️
+⭐️ Si te gusta mi trabajo, ¡no dudes en darle una estrella a mis repositorios!
 
 </div>
