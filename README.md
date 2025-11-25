@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hola, soy Joel Gramajo
+# 👋 Hola, soy Juan Pablo Gramajo
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;AI+%26+Cloud+Enthusiast;Building+Scalable+Solutions" alt="Typing SVG" />
 
@@ -68,8 +68,9 @@ const joel = {
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=jpgramajo&theme=dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FFDD00&currStreakLabel=58A6FF&sideNums=24292F&dates=57606A&currStreakNum=24292F&sideLabels=24292F)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=dark&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
@@ -77,31 +78,14 @@ const joel = {
 
 ## 🎯 Proyectos Destacados
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
+<div align="center">
 
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 250px; background-color:#f9f9f9;">
-**🤖 Aplicaciones de IA**<br/>
-LLMs on-device, RAG architectures, Deep Learning<br/>
-**Tech:** TensorFlow, PyTorch, CUDA
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 250px; background-color:#f9f9f9;">
-**☁️ Arquitecturas Cloud**<br/>
-Soluciones serverless, Microservicios, APIs<br/>
-**Tech:** AWS Lambda, API Gateway, Aurora
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 250px; background-color:#f9f9f9;">
-**🔧 Herramientas de Sistema**<br/>
-CLIs, Compiladores, Automatización<br/>
-**Tech:** C, Python, Flex/Bison
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 12px; padding: 1rem; width: 250px; background-color:#f9f9f9;">
-**🌐 Full-Stack Apps**<br/>
-Aplicaciones web y móviles modernas<br/>
-**Tech:** React, Node.js, Flutter
-</div>
+| Categoría | Descripción | Tecnologías |
+|-----------|-------------|-------------|
+| 🤖 **Aplicaciones de IA** | LLMs on-device, RAG architectures, Deep Learning | TensorFlow, PyTorch, CUDA |
+| ☁️ **Arquitecturas Cloud** | Soluciones serverless, Microservicios, APIs | AWS Lambda, API Gateway, Aurora |
+| 🔧 **Herramientas de Sistema** | CLIs, Compiladores, Automatización | C, Python, Flex/Bison |
+| 🌐 **Full-Stack Apps** | Aplicaciones web y móviles modernas | React, Node.js, Flutter |
 
 </div>
 
@@ -109,23 +93,12 @@ Aplicaciones web y móviles modernas<br/>
 
 ### 💡 Highlights
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 1rem;">
+<div align="center">
 
-<div style="border-left: 4px solid #0969DA; padding: 0.5rem 1rem; background:#f5f5f5; border-radius:8px; min-width: 300px;">
-**Sistema de Gestión Médica**<br/>Co-líder Técnico – Stack: Node.js, TypeScript, Astro, PlanetScale<br/>**Logro:** 48% mejora en eficiencia operativa
-</div>
-
-<div style="border-left: 4px solid #0969DA; padding: 0.5rem 1rem; background:#f5f5f5; border-radius:8px; min-width: 300px;">
-**Arquitectura Serverless**<br/>AWS Lambda, API Gateway, Aurora, Bedrock<br/>**Patrón:** RAG (Retrieval-Augmented Generation)
-</div>
-
-<div style="border-left: 4px solid #0969DA; padding: 0.5rem 1rem; background:#f5f5f5; border-radius:8px; min-width: 300px;">
-**Compilador BMlang**<br/>Componentes: Lexer, Parser, IDE<br/>**Tech:** C, Flex, Bison, C#, IronPython
-</div>
-
-<div style="border-left: 4px solid #0969DA; padding: 0.5rem 1rem; background:#f5f5f5; border-radius:8px; min-width: 300px;">
-**AI/ML Projects**<br/>Clasificación astronómica (PyTorch/CUDA – 98%)<br/>Generación de audio (TensorFlow/Keras)<br/>LLM on-device (Flutter + Qwen2.5)
-</div>
+- **Sistema de Gestión Médica**: Co-líder Técnico – Stack: Node.js, TypeScript, Astro, PlanetScale – Logro: 48% mejora en eficiencia operativa  
+- **Arquitectura Serverless**: AWS Lambda, API Gateway, Aurora, Bedrock – Patrón: RAG (Retrieval-Augmented Generation)  
+- **Compilador BMlang**: Componentes: Lexer, Parser, IDE – Tech: C, Flex, Bison, C#, IronPython  
+- **AI/ML Projects**: Clasificación astronómica (PyTorch/CUDA – 98%), Generación de audio (TensorFlow/Keras), LLM on-device (Flutter + Qwen2.5)
 
 </div>
 
