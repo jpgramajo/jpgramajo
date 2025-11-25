@@ -20,7 +20,7 @@
 const joel = {
     title: "Ingeniero en Sistemas",
     graduation: "Magna Cum Laude",
-    location: "Quetzaltenango, Guatemala",
+    location: "Guatemala",
     focus: ["Full-Stack Development", "Cloud Architecture", "AI/ML"],
     currentlyLearning: ["Large Language Models", "RAG Architectures"],
     interests: ["DevOps Automation", "System Optimization", "Serverless Architecture"]
@@ -74,18 +74,9 @@ const joel = {
 
 ## 📈 Estadísticas de GitHub
 
-<div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&langs_count=8&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-  
-![GitHub Streak](https://streak-stats.demolab.com?user=jpgramajo&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideNums=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideLabels=C9D1D9)
-
+<div align="center">  
+![GitHub Streak](https://streak-stats.demolab.com?user=jpgramajo&theme=github-light&hide_border=true&background=FFFFFF&stroke=0969DA&ring=0969DA&fire=0969DA&currStreakLabel=0969DA&sideNums=24292F&dates=57606A&currStreakNum=24292F&sideLabels=24292F)
 </div>
 
 <br/>
@@ -140,7 +131,7 @@ AI_ML_Projects:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-gramajo-9b1999387)
 [![Email](https://img.shields.io/badge/me@jpgramajo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@jpgramajo.com)
 
-📍 **Quetzaltenango, Guatemala** | 🌐 **Disponible para proyectos remotos**
+📍 **Guatemala** | 🌐 **Modalidad presencial o remota**
 
 </div>
 
@@ -150,8 +141,5 @@ AI_ML_Projects:
 
 ---
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=Building%20the%20future,%20one%20commit%20at%20a%20time&author=Joel%20Gramajo" alt="Quote"/>
-
-⭐️ Si te gusta mi trabajo, ¡no dudes en darle una estrella a mis repositorios!
-
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light&quote=Standing%20on%20the%20shoulders%20of%20giants.&author=Isaac%20Newton" alt="Quote"/>
 </div>
