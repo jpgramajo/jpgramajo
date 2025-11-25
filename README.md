@@ -64,18 +64,6 @@ const joel = {
 
 ---
 
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com?user=jpgramajo&theme=dark&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=FFDD00&currStreakLabel=58A6FF&sideNums=24292F&dates=57606A&currStreakNum=24292F&sideLabels=24292F)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jpgramajo&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jpgramajo&layout=compact&theme=dark&hide_border=true)
-
-</div>
-
----
-
 ## 🎯 Proyectos Destacados
 
 <div align="center">
@@ -95,10 +83,37 @@ const joel = {
 
 <div align="center">
 
-- **Sistema de Gestión Médica**: Co-líder Técnico – Stack: Node.js, TypeScript, Astro, PlanetScale – Logro: 48% mejora en eficiencia operativa  
-- **Arquitectura Serverless**: AWS Lambda, API Gateway, Aurora, Bedrock – Patrón: RAG (Retrieval-Augmented Generation)  
-- **Compilador BMlang**: Componentes: Lexer, Parser, IDE – Tech: C, Flex, Bison, C#, IronPython  
-- **AI/ML Projects**: Clasificación astronómica (PyTorch/CUDA – 98%), Generación de audio (TensorFlow/Keras), LLM on-device (Flutter + Qwen2.5)
+<div style="display:flex;gap:16px;flex-wrap:wrap;justify-content:center;max-width:980px;">
+
+  <div style="flex:1 1 300px;min-width:260px;border-radius:12px;padding:16px;background:linear-gradient(180deg,#ffffff, #f3f8ff);box-shadow:0 6px 18px rgba(8,15,32,0.06);border:1px solid rgba(9,25,66,0.06);">
+    <h3 style="margin:0 0 8px;">🤝 Sistema de Gestión Médica</h3>
+    <p style="margin:0;font-size:14px;color:#253243;">Co-líder Técnico — <strong>Node.js · TypeScript · Astro · PlanetScale</strong></p>
+    <p style="margin:8px 0 0;font-size:13px;color:#57606A;">Mejora operativa: <strong>+48%</strong> (optimización de procesos, reducción de latencias)</p>
+    <p style="margin:10px 0 0;font-size:13px;color:#57606A;"><strong>Responsabilidades:</strong> diseño de arquitectura, CI/CD, migración a serverless.</p>
+  </div>
+
+  <div style="flex:1 1 300px;min-width:260px;border-radius:12px;padding:16px;background:linear-gradient(180deg,#ffffff, #f8fff6);box-shadow:0 6px 18px rgba(8,15,32,0.06);border:1px solid rgba(9,25,66,0.04);">
+    <h3 style="margin:0 0 8px;">☁️ Arquitectura Serverless</h3>
+    <p style="margin:0;font-size:14px;color:#253243;"><strong>AWS Lambda · API Gateway · Aurora · Bedrock</strong></p>
+    <p style="margin:8px 0 0;font-size:13px;color:#57606A;">Patrón: <strong>RAG (Retrieval-Augmented Generation)</strong> para pipelines de ML en producción.</p>
+    <p style="margin:10px 0 0;font-size:13px;color:#57606A;"><strong>Impacto:</strong> reducción de costes y latencia, despliegues canary automatizados.</p>
+  </div>
+
+  <div style="flex:1 1 300px;min-width:260px;border-radius:12px;padding:16px;background:linear-gradient(180deg,#ffffff, #fff7f3);box-shadow:0 6px 18px rgba(8,15,32,0.06);border:1px solid rgba(9,25,66,0.04);">
+    <h3 style="margin:0 0 8px;">🛠️ Compilador BMlang</h3>
+    <p style="margin:0;font-size:14px;color:#253243;"><strong>Lexer · Parser · IDE</strong></p>
+    <p style="margin:8px 0 0;font-size:13px;color:#57606A;">Tech: <strong>C · Flex · Bison · C# · IronPython</strong></p>
+    <p style="margin:10px 0 0;font-size:13px;color:#57606A;"><strong>Logro:</strong> herramienta completa con integración en CI y testing automatizado.</p>
+  </div>
+
+  <div style="flex:1 1 300px;min-width:260px;border-radius:12px;padding:16px;background:linear-gradient(180deg,#ffffff, #f7f5ff);box-shadow:0 6px 18px rgba(8,15,32,0.06);border:1px solid rgba(9,25,66,0.04);">
+    <h3 style="margin:0 0 8px;">🤖 AI / ML Projects</h3>
+    <p style="margin:0;font-size:14px;color:#253243;"><strong>PyTorch · CUDA · TensorFlow · Keras · Flutter (LLM on-device)</strong></p>
+    <p style="margin:8px 0 0;font-size:13px;color:#57606A;">Ejemplos: clasificación astronómica (98% precisión), generación de audio, LLM on-device (Qwen2.5).</p>
+    <p style="margin:10px 0 0;font-size:13px;color:#57606A;"><strong>Notas:</strong> pipelines reproducibles, pruebas E2E en modelos y despliegues CI/CD.</p>
+  </div>
+
+</div>
 
 </div>
 
@@ -108,7 +123,7 @@ const joel = {
 
 <div align="center">
 
-¿Tienes un proyecto interesante o quieres discutir sobre tecnología? **¡Hablemos!**  
+¿Tienes un proyecto interesante o quieres hablar sobre tecnología? **¡Charlemos!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juan-pablo-gramajo-9b1999387)  
 [![Email](https://img.shields.io/badge/me@jpgramajo.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:me@jpgramajo.com)  
